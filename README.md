@@ -17,7 +17,7 @@ Besides controlling access to repos, Teams allow 1871 members to address each ot
 When you become a member, 1871 staff will add you to the following Teams in the 1871 Organization on GitHub:
 
  - **Members**: All current 1871 members 
- - **<Your-Startup-Name>**: Each startup gets their own team
+ - **\<Your-Startup-Name\>**: Each startup gets their own team
  - **Founders**: If you're a founder, you're added to the Founders team
  - **CustomerAcquisition**: If your primary responsibility is getting customers
  - **Tech**: If your primary responsibility is building shit
